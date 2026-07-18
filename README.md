@@ -1,20 +1,22 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> أهلاً بك (Welcome) 🙏🏻, أنا عبد الرحمن الدبوسي! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>مطور شغوف ومتعلم في مجال الذكاء الاصطناعي (AI Learner & Aspiring Engineer) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+## Hi there! 👋 I'm Abdulrahman Al-Dabousi
 
-### 🚀 نبذة عني...   
+🚀 I am an ambitious AI Student at **Horus University Egypt (HUE)**, deeply passionate about Artificial Intelligence, Data Science, and the future of intelligent systems. My tech journey is focused on building a rock-solid foundation in software engineering and algorithms to deploy innovative AI solutions.
 
-```python
-class Abdulrahman:
-    def __init__(self):
-        self.name = "Abdulrahman Al-Dabousi"
-        self.role = "AI Student & Developer"
-        self.os = "Windows 11"
-        self.primary_language = "Python"
-        
-    def current_focus(self):
-        return "Building a solid foundation in Python and exploring Core AI Concepts"
-        
-    def fun_fact(self):
-        return "Every expert was once a beginner who refused to give up!"
+🛠️ My primary ecosystem is **Windows 11**, and my core programming language is **Python**. I am consistently working on expanding my skillset from foundational coding to complex data models.
+
+🧠 I love problem-solving and diving deep into logic. Being a student at the Faculty of Artificial Intelligence allows me to bridge the gap between academic theories and practical, real-world tech applications.
+
+Let's connect and build the future of AI together! 🌟
+
+### Top Skills & Tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Windows 11](https://img.shields.io/badge/Windows%2011-%230078d4.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+- 🔭 I’m currently studying **Artificial Intelligence @ Horus University Egypt**
+- 🌱 I’m currently mastering **Python Programming & Core AI Concepts**
+- 👯 I’m looking to collaborate on open-source Python and AI beginner projects
+- 💬 Ask me about **My learning journey in AI and Python**
+- 📫 How to reach me: **Through my GitHub profile and repositories!**
+
+![Abdulrahman's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=dark)
